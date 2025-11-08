@@ -111,6 +111,16 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 <!-- ************************* -->
 
+#### GENEA 2025
+
+##### GENEA Workshop 2025 - ICMI 2025 Accepted papers [[Homepage]](<https://genea-workshop.github.io/2025/>)
+
+**Reproducibility Award**
+
+| Paper                                                                                                                            | 🏆  |
+| -------------------------------------------------------------------------------------------------------------------------------- | --- |
+| From Embeddings to Language Models: A Comparative Analysis of Feature Extractors for Text-Only and Multimodal Gesture Generation | 🏆  |
+
 #### GENEA 2024
 
 ##### GENEA Workshop 2024 - ICMI 2024 Accepted papers [[Homepage]](<https://genea-workshop.github.io/2024/>)
@@ -220,7 +230,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - 【CVPR 2024】 EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_EMAGE_Towards_Unified_Holistic_Co-Speech_Gesture_Generation_via_Expressive_Masked_CVPR_2024_paper.pdf); [[PantoMatrix/PantoMatrix]](https://github.com/PantoMatrix/PantoMatrix)
 - 【CVPR 2024】 Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chhatre_Emotional_Speech-driven_3D_Body_Animation_via_Disentangled_Latent_Diffusion_CVPR_2024_paper.pdf); [[kiranchhatre/amuse]](https://github.com/kiranchhatre/amuse)
 - 【CVPR 2024】 Using Language-Aligned Gesture Embeddings for Understanding Gestures Accompanying Math Terms [[paper]](https://openaccess.thecvf.com/content/CVPR2024W/MAR/papers/Maidment_Using_Language-Aligned_Gesture_Embeddings_for_Understanding_Gestures_Accompanying_Math_Terms_CVPRW_2024_paper.pdf)
-- 【SIGGRAPH ASIA 2024】 Body Gesture Generation for Multimodal Conversational Agents [[paper]](https://dl.acm.org/doi/pdf/10.1145/3680528.3687648); [[homepage]](https://pulsekim.github.io/posts/bodygesture/) 
+- 【SIGGRAPH ASIA 2024】 Body Gesture Generation for Multimodal Conversational Agents [[paper]](https://dl.acm.org/doi/pdf/10.1145/3680528.3687648); [[homepage]](https://pulsekim.github.io/posts/bodygesture/)
 - 【SIGGRAPH 2024】Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis [[paper]](https://pku-mocca.github.io/Semantic-Gesticulator-Page/) ; [[video]](https://www.youtube.com/watch?v=gKGqCE7id4U) ; [[LuMen-ze/Semantic-Gesticulator-Official]](https://github.com/LuMen-ze/Semantic-Gesticulator-Official)
 - 【ACMMM 2024】SynTalker - Enabling Synergistic Full-Body Control in Prompt-Based Co-Speech Motion Generation [[paper]](https://arxiv.org/abs/2410.00464) ; [[homepage]](https://robinwitch.github.io/SynTalker-Page/) ; [[video]](https://www.youtube.com/watch?v=hkCQLrLarxs) ; [[RobinWitch/SynTalker]](https://github.com/RobinWitch/SynTalker)
 - 【ACMMM 2024】MDT-A2G- Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation [[paper]](https://arxiv.org/abs/2408.03312) ; [[homepage]](https://xiaofenmao.github.io/web-project/MDT-A2G/)
