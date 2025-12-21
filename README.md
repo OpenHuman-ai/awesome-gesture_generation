@@ -622,6 +622,11 @@ This section is -- **not accurate** --> continue edditing
 | USP (Upper-body Custom by Teams) | 🧑‍🦲        | ⚙️   |      |      |      |      |
 | USQ (Upper-body Custom by Teams) | 🧑‍🦲        | ⚙️   |      |      |      |      |
 
+### Human evaluation / user studies (subjective)
+
+- 【Frontiers 2025】Evaluation of Generative Models for Emotional 3D Animation Generation in VR ; [[paper]](<https://arxiv.org/abs/2512.16081>) ; [[homepage]](<https://emotional3dhumans.github.io/>) ; [[video]](<https://play.kth.se/media/Evaluation+of+Generative+Models+for+Emotional+3D+Animation+Generation+in+VR/0_q1e7393r>)
+- 【IVA 2025】Synthetically Expressive: Evaluating gesture and voice for emotion and empathy in VR and 2D scenarios 🏆 ; [[paper]](<https://dl.acm.org/doi/pdf/10.1145/3717511.3747074>) ; [[homepage]](<https://hydu0016.github.io/Synthetically-Expressive/>) ; [[video]](<https://www.youtube.com/watch?v=WMfjIB1X-dc>)
+
 ### Objective metrics
 
 <!-- | Metric | Description |
